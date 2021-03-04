@@ -1,0 +1,12 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+com.zuko.billingz.lib
+com.zuko.billingz.lib.client
+com.zuko.billingz.lib.facade
+com.zuko.billingz.lib.inventory
+com.zuko.billingz.lib.manager
+com.zuko.billingz.lib.model
+com.zuko.billingz.lib.products
+com.zuko.billingz.lib.sales
+
