@@ -1,0 +1,26 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.zuko.billingz.lib.client/Billing.GooglePlayConnectListener///PointingToDeclaration/com/zuko/billingz/lib/client/Billing.GooglePlayConnectListener.html
+$dokka.location:com.zuko.billingz.lib.client/Billing.GooglePlayReconnectListener///PointingToDeclaration/com/zuko/billingz/lib/client/Billing.GooglePlayReconnectListener.html
+$dokka.location:com.zuko.billingz.lib.client/Client.Companion///PointingToDeclaration/com/zuko/billingz/lib/client/Client.Companion.html
+$dokka.location:com.zuko.billingz.lib.inventory/StoreInventory.Companion///PointingToDeclaration/com/zuko/billingz/lib/inventory/StoreInventory.Companion.html
+$dokka.location:com.zuko.billingz.lib.manager/Manager.Companion///PointingToDeclaration/com/zuko/billingz/lib/manager/Manager.Companion.html
+$dokka.location:com.zuko.billingz.lib.model/Result.Companion///PointingToDeclaration/com/zuko/billingz/lib/model/Result.Companion.html
+$dokka.location:com.zuko.billingz.lib.model/Result.Status///PointingToDeclaration/com/zuko/billingz/lib/model/Result.Status.html
+$dokka.location:com.zuko.billingz.lib.products/Product.ProductType///PointingToDeclaration/com/zuko/billingz/lib/products/Product.ProductType.html
+$dokka.location:com.zuko.billingz.lib.products/Product.SkuType///PointingToDeclaration/com/zuko/billingz/lib/products/Product.SkuType.html
+$dokka.location:com.zuko.billingz.lib.sales/OrderHistory.Companion///PointingToDeclaration/com/zuko/billingz/lib/sales/OrderHistory.Companion.html
+$dokka.location:com.zuko.billingz.lib.sales/ProductSales.Companion///PointingToDeclaration/com/zuko/billingz/lib/sales/ProductSales.Companion.html
+$dokka.location:com.zuko.billingz.lib.sales/Sales.OrderUpdateListener///PointingToDeclaration/com/zuko/billingz/lib/sales/Sales.OrderUpdateListener.html
+$dokka.location:com.zuko.billingz.lib.sales/Sales.OrderValidatorListener///PointingToDeclaration/com/zuko/billingz/lib/sales/Sales.OrderValidatorListener.html
+$dokka.location:com.zuko.billingz.lib.sales/Sales.ValidatorCallback///PointingToDeclaration/com/zuko/billingz/lib/sales/Sales.ValidatorCallback.html
+$dokka.location:com.zuko.billingz.lib/LogUtil.log///PointingToDeclaration/com/zuko/billingz/lib/LogUtil.log.html
+com.zuko.billingz.lib
+com.zuko.billingz.lib.client
+com.zuko.billingz.lib.facade
+com.zuko.billingz.lib.inventory
+com.zuko.billingz.lib.manager
+com.zuko.billingz.lib.model
+com.zuko.billingz.lib.products
+com.zuko.billingz.lib.sales
+
